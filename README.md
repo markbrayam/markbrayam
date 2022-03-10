@@ -1,8 +1,8 @@
-- 👋 Mi nombre es Mark Brayam Renteria Morales
-- 👀 Me interesa la ciberseguridad y la inteligencia artificial
-- 🌱 Estoy estudiando Ingenieria de Software
-- 💞️ Busco colaborar en proyectos relacionados con inteligencia artificial
-- 📫 Contacto: ig @mark_brayam
+- Mi nombre es Mark Brayam Renteria Morales
+- Me interesa la ciberseguridad y la inteligencia artificial
+- Estoy estudiando Ingenieria de Software
+- Busco colaborar en proyectos relacionados con inteligencia artificial
+- Contacto: ig @mark_brayam
                markbrayamrenteriamorales@gmail.com
 
 <!---
